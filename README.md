@@ -1,2 +1,2 @@
 # AgentDhruva
-Agent dhruva a restaurant support agent.
+Agent dhruva a restaurant support AI agent.
